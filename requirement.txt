@@ -1,0 +1,7 @@
+Pillow
+fitz
+pyzbar
+pyOpenSSL
+bs4
+base45
+cbor2
